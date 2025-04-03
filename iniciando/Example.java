@@ -18,7 +18,7 @@ Compilador: Javac
 
 Comando para compilar: javac package/nome-arquivo.java
 
-Compilação irá gerar versão em bytecode do programa: nome-arquivo.class
+Compilação irá gerar versão em bytecode do programa: classe.class
  */
 
 /*
