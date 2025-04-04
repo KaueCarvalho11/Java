@@ -1,0 +1,30 @@
+                        public static void main(String[] args)
+
+                                        public
+* Modificador de acesso
+* Define como outras partes do programa podem acessar os membros da classe
+* Pode ser acessado por um código fora da classe em que foi declarado
+
+                                        main
+* Declarado como público, pois, tem que ser chamado por um código fora da sua classe quando o programa for iniciado
+
+                                        static
+* Permite que main() seja chamado antes de um objeto da classe ter sido criado, necessário pois a main é chamada pelo JVM antes de qualquer objeto ser criado
+
+                                        String[] args
+* Array de objetos do tipo String, chamado args
+
+
+                            System.out.println("Hello, World");
+
+                                        System
+* Classe predefinida que dá acesso ao sistema
+
+                                        out
+* Fluxo de saída que esta conectado ao console
+
+                                        System.out
+* Objeto que encapsula a saída do console
+
+                                            ;
+* Todas as instruções em java terminam com ";"

@@ -3,11 +3,14 @@ package iniciando;
 /*
 Nome da classe principal deve coincidir com o nome do arquivo que contém o programa
 Importante para que nome do arquivo fonte coincida com o nome do arquivo.class
-
 */
-class Example {
-
-    /*Todo código deve residir dentro de classes */
+class Example { 
+    //Todo código deve residir dentro de classes 
+    
+    /* 
+    Programa Java começa com uma chamada a main
+    Linha na qual o programa começará a ser executado
+    */
     public static void main(String[] args) {
         System.out.println("Hello, World"); 
     }
