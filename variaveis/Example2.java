@@ -18,6 +18,6 @@ class InnerExample2 {
     public static void main(String[] args) {
         int var3 = 10;
         int var4 = 20;
-        System.out.println("var3 e var4: " + var3 + " e " + var4 );
+        System.out.println("var3 e var4: " + var3 + " e " + var4);
     }
 }
