@@ -1,12 +1,12 @@
 package caractere;
 
 class Ascii {
-    public static void main(String[]args){
+    public static void main(String[] args) {
         char caractere = 'x';
 
         System.out.println("caractere = " + caractere);
 
-        caractere++; 
+        caractere++;
         System.out.println("caractere = " + caractere);
 
         caractere = 25;
@@ -25,5 +25,4 @@ class Ascii {
 
         System.out.println("Caractere = " + caractere);
     }
-    
 }
