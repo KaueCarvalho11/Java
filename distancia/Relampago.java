@@ -1,5 +1,5 @@
 /*
-Calculando a distância de um ouvindo para o local de queda de um relâmpago, com base em velocidade do som e intervalo entre o momento de ter visto o relâmpago e o momento da escuta do mesmo predefinidos.
+Calculando a distância entre um ouvinte e o local de queda de um relâmpago, com base em velocidade do som e intervalo entre o momento de ter visto o relâmpago e o momento da escuta do mesmo predefinidos.
  */
 
 package distancia;
